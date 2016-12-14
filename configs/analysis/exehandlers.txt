@@ -1,0 +1,3 @@
+BaseInfo	game	select Name, Level, VipLevel, GoldMoney, Vitality, from_unixtime(CreateTime) as CreateTime, from_unixtime(LogoutTime) as LogoutTime from Player;
+Single	custom	select #1 from #2;
+Combo	game	select Name from Player;select UUID from Player;

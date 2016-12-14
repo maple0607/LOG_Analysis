@@ -1,0 +1,13 @@
+{
+    "DB": {
+        "HandlerName":"ResultDB",
+        "ServerID":-1,
+        "DBType":"system",
+        "Hostname": "192.168.0.247",
+        "Hostport": 3306,
+        "Username": "root",
+        "Password": "123456",
+        "Database": ""
+    },
+    "SystemPath":"configs/analysis/"
+}

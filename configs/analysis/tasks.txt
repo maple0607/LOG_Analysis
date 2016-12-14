@@ -1,0 +1,2 @@
+BaseInfo	&a	&n	86400	0
+Active	&a	[t]	86400	0

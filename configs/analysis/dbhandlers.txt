@@ -1,0 +1,6 @@
+GameSL	1	game	root	123456	192.168.0.248	3306	GameSL_YN	utf8
+Comm	-1	comm	root	123456	192.168.0.248	3306	Common	utf8
+Zhao	2	game	root	123456	192.168.0.247	3306	GameSLTW	utf8
+Pay1	-1	pay	root	123456	192.168.0.248	3306	pay	utf8
+G1	1	data	root	123456	192.168.0.248	3306	GameSL_CN	utf8
+L1	1	log	root	123456	192.168.0.248	3306	Log_CN	utf8
